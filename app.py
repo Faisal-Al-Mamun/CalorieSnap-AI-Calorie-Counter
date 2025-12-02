@@ -17,7 +17,7 @@ def get_gemini_response(input_prompt, image):
     return response.text
 
 # Page Configuration
-st.set_page_config(page_title="NutriSnap: AI Calorie Counter", page_icon="🍎", layout="wide")
+st.set_page_config(page_title="CalorieSnap: AI Calorie Counter", page_icon="🍎", layout="wide")
 
 # Custom CSS for styling
 st.markdown("""
@@ -91,7 +91,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown("<h1>🍎 NutriSnap: AI Calorie Counter</h1>", unsafe_allow_html=True)
+st.markdown("<h1>🍎 CalorieSnap: AI Calorie Counter</h1>", unsafe_allow_html=True)
 st.markdown("<p class='subtitle'>Snap a photo, track your calories, and eat smarter.</p>", unsafe_allow_html=True)
 
 # Main Layout

@@ -1,6 +1,6 @@
-# NutriSnap: AI Calorie Counter 🍎
+# CalorieSnap: AI Calorie Counter 🍎
 
-**NutriSnap** is a smart, AI-powered calorie counter application that uses Google's Gemini Pro Vision API to analyze food images and provide instant nutritional insights.
+**CalorieSnap** is a smart, AI-powered calorie counter application that uses Google's Gemini Pro Vision API to analyze food images and provide instant nutritional insights.
 
 
 ## Features
@@ -21,8 +21,8 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/Faisal-Al-Mamun/NutriSnap-AI-Calorie-Counter.git
-    cd NutriSnap
+    git clone https://github.com/Faisal-Al-Mamun/CalorieSnap-AI-Calorie-Counter.git
+    cd CalorieSnap
     ```
 
 2.  **Install dependencies**:
