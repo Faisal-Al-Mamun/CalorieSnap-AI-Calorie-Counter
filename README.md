@@ -21,7 +21,7 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/NutriSnap.git
+    git clone https://github.com/Faisal-Al-Mamun/NutriSnap-AI-Calorie-Counter.git
     cd NutriSnap
     ```
 
